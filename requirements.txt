@@ -1,0 +1,8 @@
+click>=8.0
+rich>=13.0
+python-docx>=0.8.11
+weasyprint>=60.0
+requests>=2.31
+pyyaml>=6.0
+python-slugify>=8.0
+python-dotenv>=1.0
